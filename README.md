@@ -7,37 +7,37 @@
 
 ## 🧩Projects
 
-[🤍 **Helpmet (헬프멧)**](https://github.com/A303-Helpmet/FE)<br>
+### 🤍 [**Helpmet (헬프멧)**](https://github.com/A303-Helpmet/FE)<br>
 
 - 서울시 공자전거 ‘따릉이’ 이용자를 위한 AI 기반의 핸즈프리 스마트헬멧 솔루션
 - 인원 : 6인(FE 2명 / BE 1명 / AI 2명 / HW 1명)
 - 기간 :  25.04.14 ~ 25.05.22 (약 6주)
 
-[🤍 **대장부**](https://github.com/A108-Daejangbu/client)<br>
+### 🤍 [**대장부**](https://github.com/A108-Daejangbu/client)<br>
 
 - 총무의 업무를 줄이고, 구성원과의 신뢰를 높이는 투명한 회비(공금) 관리 서비스
 - 인원 : 6인(FE 3명 / BE 3명)
 - 기간 :  25.02. 24 ~ 25.04.11 (약 7주)
 
-[🤍 **D3V(데브)**](https://github.com/D3V-A609/D3V)<br>
+### 🤍 [**D3V(데브)**](https://github.com/D3V-A609/D3V)<br>
 
 - 하루 3개 질문으로 완성하는 맞춤형 IT 면접 준비 서비스
 - 인원 : 6인(FE 3명 / BE 3명)
 - 기간 :  25.01.06 ~ 25.02.21 (약 7주)
 
-🤍 **BurgerMate(버거메이트)**<br>
+### 🤍 **BurgerMate(버거메이트)**<br>
 
 - 알레르기 기반 햄버거 추천 RAG 챗봇 서비스
 - 인원 : 5인(AI 2명 /FE 2명 / BE 1명)
 - 기간 :  25.012.30 ~ 25.01.03 (1주)
 
-[🤍 **꼬미의 대모험 with 국립공원공단**](https://github.com/HyeoOng/Kkomi-s_Adventure)<br>
+### 🤍 [**꼬미의 대모험 with 국립공원공단**](https://github.com/HyeoOng/Kkomi-s_Adventure)<br>
 
 - 생성형AI를 활용한 치악산국립공원 스마트 탐방 서비스
 - 인원 : 5인(AI 2명 /FE 2명 / BE 1명)
 - 기간 :  23.10.20 ~ 25.011.29 (약 6주)
 
-🤍 **스테인리스 선재 재질 예측 서비스 with 세아창원특수강**<br>
+### 🤍 **스테인리스 선재 재질 예측 서비스 with 세아창원특수강**<br>
 
 - 데이터 기반의 스테인리스 선재의 5가지 재질(인성강도, 항복강도, 연신율, 단면감소율, 경도) 예측 모델 개발 프로젝트
 - 인원 : 4인
