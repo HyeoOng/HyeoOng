@@ -55,7 +55,7 @@
 
 ## 🧠 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyewon1122)](https://solved.ac/hyewon1122/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={hyewon1122}&theme=cold)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyewon1122&theme=cold)
 <br>
 
 ## 📬 Contact
